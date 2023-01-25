@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.header {
+
+}
+
+.content {
+    display: flex;
+    flex: 1;
+
+}
+
+.footer {
+
+}
+
+/* CSS for Mid Content */
+.topContainer {
+
+}
+.midContainer {
+
+}
+.botContainer {
+
+}
