@@ -101,13 +101,12 @@ h1,p, h4,h6 {
   max-height: 250px;
   gap: 32px;
   align-items: center;
+  color: white;
+  padding: 32px;
+  font-weight: 900;
 
 }
-.textCTA {
-  
 
-
-}
 /* CSS for Icons */
 
 .material-symbols-outlined {
