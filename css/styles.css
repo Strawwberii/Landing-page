@@ -145,9 +145,17 @@ a {
   align-items: center;
   color: white;
   padding: 32px;
-  font-weight: 900;
+
   
 
+}
+#ctabold {
+  font-weight: 800;
+  margin: 10px;
+}
+#ctasmall {
+  font-style: oblique;
+  margin: 10px;
 }
 button {
 background-color: #C2FBD7;
