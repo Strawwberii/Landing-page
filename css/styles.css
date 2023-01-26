@@ -80,18 +80,19 @@ h1,p, h4,h6 {
   font-weight: 900;
   font-size: 48px;
 }
-.imageForSkills {
-
-  display: flex;
-  justify-content: space-between;
-}
-
 .img{
   width: 200px;
   height: 200px;
-  border-style: groove;
-  border: #03001C;
+  border-style:ridge;
+  border-width: 3px;
+  border-color: #03001C;
   
+}
+.imageForSkills {
+
+  display: flex;
+  justify-content: space-around;
+  gap: 48px;
 }
 
 
