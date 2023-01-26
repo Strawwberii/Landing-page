@@ -50,10 +50,10 @@ a {
 .topContainer {
   background-color: #301E67;
   display: flex;
-  justify-content: center;
-  gap: 32px;
+  justify-content: space-evenly;
+  gap: 48px;
   align-items: center;
-  padding: 48px;
+  padding: 48px 48px 96px 48px;
   
   
 
@@ -86,6 +86,7 @@ a {
 #midHead {
   font-weight: 900;
   font-size: 48px;
+  font-style: italic;
 }
 .img{
   width: 200px;
@@ -145,18 +146,20 @@ a {
   align-items: center;
   color: white;
   padding: 32px;
-
-  
-
 }
+
 #ctabold {
   font-weight: 800;
   margin: 10px;
 }
+
 #ctasmall {
   font-style: oblique;
   margin: 10px;
 }
+
+
+
 button {
 background-color: #C2FBD7;
 border-radius: 50px;
