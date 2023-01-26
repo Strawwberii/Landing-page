@@ -136,19 +136,27 @@ a {
   }
 
 /* CTA CSS */
-
-.CTA {
+.CTAContainer {
   background-color: #301E67;
   display: flex;
   justify-content: center;
-  max-height: 250px;
+  align-items: center;
+  padding: 48px;
+  
+}
+.CTA {
+  background-color: #5B8FB9;
+  display: flex;
+  justify-content: center;
   gap: 32px;
   align-items: center;
   color: white;
-  padding: 32px;
+  padding: 32px 128px 32px 128px;
+  border-radius: 10px;
 }
 
 #ctabold {
+  font-size: 24px;
   font-weight: 800;
   margin: 10px;
 }
