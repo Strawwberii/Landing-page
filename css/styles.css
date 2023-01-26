@@ -48,7 +48,7 @@ a {
 /* topContainer CSS */
 
 .topContainer {
-  background-color: #301E67;
+  background-color: #16213E;
   display: flex;
   justify-content: space-evenly;
   gap: 48px;
@@ -86,7 +86,7 @@ a {
 /*midContainer CSS */
 
 .midContainer {
-  background-color: #5B8FB9;
+  background-color: #453C67;
   display: flex;
   flex-direction: column;
   gap: 32px;
@@ -150,7 +150,7 @@ a {
 
 /* CTA CSS */
 .CTAContainer {
-  background-color: #301E67;
+  background-color: #16213E;
   display: flex;
   justify-content: center;
   align-items: center;
